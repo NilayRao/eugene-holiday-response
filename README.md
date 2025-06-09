@@ -5,7 +5,7 @@ This project explores how federal holidays affect emergency response behavior in
 We ask:  
 **Does the presence of a federal holiday significantly impact the volume, nature, and response performance of CAD-recorded incidents in Eugene?**
 
-## 📊 What We Analyze
+## What We Analyze
 
 - **Volume**: Are fewer calls logged on holidays?
 - **Nature**: Do call types shift during holidays?
