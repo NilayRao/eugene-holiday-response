@@ -1,4 +1,4 @@
-# eugene-holiday-response
+# Eugene Emergency Response during Federal Holidays
 
 This project explores how federal holidays affect emergency response behavior in Eugene, Oregon using CAD (Computer-Aided Dispatch) data from 2014 to 2025.
 
