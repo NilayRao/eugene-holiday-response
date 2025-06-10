@@ -12,8 +12,7 @@ We ask:
 - **Response Performance**:
   - How fast units respond (`secs_to_arrv`)
   - How quickly calls are closed (`secs_to_close`)
-
-We also begin to explore whether these same trends appear within **CAHOOTS-tagged calls**, Eugene's alternative crisis response program.
+- We also begin to explore whether these same trends appear within **CAHOOTS-tagged calls**, Eugene's alternative crisis response program.
 ---
 
 ## How to Run
